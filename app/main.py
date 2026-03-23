@@ -1,6 +1,5 @@
 from fastapi import FastAPI
-from app.service import load_events, get_event_by_id, check_event
-from app.service import update_event
+from app.service import load_events, get_event_by_id, check_event, update_event
 
 app = FastAPI()
 
