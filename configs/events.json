@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Double XP Weekend",
+    "conditions": {
+      "min_level": 5
+    },
+    "rewards": {
+      "xp_multiplier": 2
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kill Challenge",
+    "conditions": {
+      "kills": 10
+    },
+    "rewards": {
+      "credits": 100
+    }
+  }
+]
