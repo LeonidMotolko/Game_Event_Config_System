@@ -35,6 +35,7 @@ Events are:
 ---
 
 ## 📁 Project Structure
+```text
 game-event-system/
 │
 ├── app/
@@ -46,7 +47,7 @@ game-event-system/
 │
 ├── README.md
 ├── requirements.txt
-
+```
 ---
 
 ## ⚙️ Setup & Run
